@@ -11,7 +11,7 @@ root.title("MemeFinder")
 # pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Global variables to store folder path and extracted text data
-meme_folder = "C:/Users/eduv4941540"
+meme_folder = ""
 meme_text_data = {}
 
 # Load memes from a directory and extract text
